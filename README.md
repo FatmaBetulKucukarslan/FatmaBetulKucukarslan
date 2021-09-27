@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there
+I am Fatma Betül
 
+I am a freshman at Computer Science at Bilkent University
 <!--
 **FatmaBetulKucukarslan/FatmaBetulKucukarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
